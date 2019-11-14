@@ -12,7 +12,7 @@ We value the number three (www), coded/secret messaging techniques and support f
 
 ## Goals
 
-- Provide long lasting, secure and above average paying jobs secured by yearly contracts at companies in the USA (globally?)
+- Provide long lasting, secure and above average paying jobs secured by yearly contracts at companies across the globe
 - Promote ethical behavior guidelines and ensure high quality services are developed and maintained
 - Educate members, improve skill sets and provide resources to members in need
 - Protect the intellectual property of members so that equity is not stolen from fruits of labor without just compensation and due process
@@ -45,7 +45,6 @@ We value the number three (www), coded/secret messaging techniques and support f
 - Strikes can and will happen, crippling companies that dishonor the code
 
 ## Questions
-- Should this be USA or global? Can it work just USA? A big benefit is to protect American jobs but the web is a global space. If global, does the union approve all outsourcing? If global, how do we deal with China/Russia and other difficult regimes? Are we prepared to die for this?
 - How do we prevent corruption that has plagued unions?
 - How does this work for government employees?
 - Where is the line with management? Many of us get promoted and no longer produce or maintain, how does this work with normal unions? Example: Mark Zuckerburg was a developer how does he stand in the union? Do we just outlaw conflicts of interests and “boot” people? (No offense, “Data”, just an example)
