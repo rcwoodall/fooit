@@ -1,7 +1,8 @@
 # Fraternal Order Of Internet Technologists
 
 The Fraternal Order of Internet Technologists (fooit) is a new labor and knowledge union based on Masonic traditions mixed with modern collaboration techniques. It’s like a guild of guilds welcome to anyone in the technology space.
-"If it’s foobar, fooit!"
+
+__"If it’s foobar, fooit!"__
 
 ## Overview
 
