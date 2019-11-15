@@ -47,7 +47,7 @@ We value the number three (www), coded/secret messaging techniques and support f
 ## Questions
 - How do we prevent corruption that has plagued unions?
 - How does this work for government employees?
-- Where is the line with management? Many of us get promoted and no longer produce or maintain, how does this work with normal unions? Example: Mark Zuckerburg was a developer how does he stand in the union? Do we just outlaw conflicts of interests and “boot” people? (No offense, “Data”, just an example)
+- Where is the line with management? Many of us get promoted and no longer produce or maintain, how does this work with normal unions?
 
 ## Legal and structure
 - I believe the proper organization under US law is a non profit type 501(c)(5)
@@ -63,9 +63,3 @@ We value the number three (www), coded/secret messaging techniques and support f
 - New sub chapters must be voted in to be created. Founders of new sub chapters will be recognized immortally as founders and be lifetime members granted no egregious behavior is performed
 - Sub chapters may adopt personal names and even specialties, if it remains efficient for the union as a whole. Example is “Kansas City Network Admins Guild, a Fraternal Order Of IT Union Chapter #33”
 - Sub chapters have some method of policing the parent organization such as budget approval or who gets hired, to prevent corruption
-
-## Case studies
-- Company wants an IT employee to hack another company to obtain classified information in order to pollute the environment. Employees are threatened with termination - fooit!
-- Management agrees to raises one year and fails to do so - fooit!
-- Company forces employees to use their own equipment with no equity or revenue share given - fooit!
-- Company wants to merge with another company which will cause loss of jobs on both sides - fooit!
