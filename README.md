@@ -42,7 +42,6 @@ We value the number three (www), coded/secret messaging techniques and support f
 ## Tactical
 - Companies will be required to hire union members unless none are available
 - Yearly contracts will be negotiated at each company
-- Strikes can and will happen, crippling companies that dishonor the code
 
 ## Questions
 - How do we prevent corruption that has plagued unions?
